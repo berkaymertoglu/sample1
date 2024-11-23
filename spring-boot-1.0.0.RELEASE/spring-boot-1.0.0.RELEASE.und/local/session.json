@@ -1,0 +1,129 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "default": {
+            "SessionData": {
+                "1_1536x864": {
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00Locator": {
+                                "height": 240,
+                                "width": 1262
+                            },
+                            "01ProjectOverviewWidget": {
+                                "height": 327,
+                                "width": 250
+                            },
+                            "02SuggestionsBrowser": {
+                                "height": 181,
+                                "width": 250
+                            },
+                            "03EntityFilter": {
+                                "height": 350,
+                                "width": 250
+                            },
+                            "04ProjectMetricsWidget": {
+                                "height": 476,
+                                "width": 1262
+                            },
+                            "05InfoBrowserWidget_0": {
+                                "height": 350,
+                                "width": 270
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "ProjectOverviewWidget",
+                            "ProjectMetricsWidget"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "Locator": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectMetricsWidget"
+                        ]
+                    },
+                    "ProjectMetricsWidget": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "Locator"
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "SuggestionsBrowser": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "All Entities"
+                },
+                "IBExpansions": {
+                    "InfoBrowserWidget": [
+                        "Jovial References",
+                        "Python References",
+                        "WEB References",
+                        "WEB Possible References",
+                        "Asm References",
+                        "Ada References",
+                        "Ftn References",
+                        "AI",
+                        "Graphs",
+                        "AIParent",
+                        "VHDL References",
+                        "c# References",
+                        "C++ References",
+                        "Java References",
+                        "basic References",
+                        "Pascal References"
+                    ]
+                },
+                "IBOptions": {
+                },
+                "LastDisplayGroup": "1_1536x864",
+                "Locator": {
+                    "LastEntityFilterUsed": "Functions"
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@l(unnamed_function_1).(unnamed_function_56).Expr.relative.\"\"@kw14(unnamed_function_1).(unnamed_function_56).expr.relative.\"\":./spring-boot-1.0.0.RELEASE/spring-boot-samples/spring-boot-sample-web-ui/src/main/resources/static/js/jquery-1.7.2.js@f./spring-boot-1.0.0.RELEASE/spring-boot-samples/spring-boot-sample-web-ui/src/main/resources/static/js/jquery-1.7.2.js",
+                    "projectOverviewCharts": "true",
+                    "projectOverviewChartsSelected": "true"
+                },
+                "ProjectMetricsBrowser": {
+                    "Overwrite": false,
+                    "SaveDirectory": "./."
+                }
+            }
+        }
+    }
+}
